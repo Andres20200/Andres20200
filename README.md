@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
-<p align="center"> https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNqeWJyNTJvNzUwOHhzem5wbGo2azlmbmFpcmo1cjR0NTR2azZxciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif </p>
 <h3 align="center">A passionate frontend and backend developer, I work with visual studio code, java etc... I am from Colombia. I like to work in network installation, I have knowledge about computer maintenance and repair.</h3>
 
 - 🔭 I’m currently working on **I'm working on a game selling website with database**
